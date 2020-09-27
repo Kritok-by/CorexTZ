@@ -1,0 +1,50 @@
+aside{
+  width: 14.5%;
+  min-width: 210px;
+  margin-left: 6%;
+  div{
+    background: rgba($color: #fff, $alpha: 0.1);
+    text-align: center;
+    padding-top: 46px ;
+    padding-bottom:56px;
+    position: relative;
+    .new-logo{
+      margin-bottom: 46px;
+    }
+    h3{
+      margin-bottom: 46px;
+    }
+    .adventages{
+      margin-bottom: 55px;
+      li{
+        margin-bottom: 10px;
+        &:after, &:before{
+          display: none;
+        }
+      }
+    }
+    .pagination{
+      position: absolute;
+      display: block;
+      right: 16px;
+      bottom: 16px;
+      margin-bottom: 0;
+      li{
+        display: block;
+          margin-bottom: 1px;
+          &:last-child{
+            margin-bottom: 0;
+          }
+          &:after, &:before{
+            display: none;
+          }
+      }
+    }
+  }
+}
+
+@media(max-width: 1439px){
+  aside{
+    display: none;
+  }
+}

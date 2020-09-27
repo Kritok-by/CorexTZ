@@ -1,0 +1,16 @@
+main{
+  display: flex;
+  padding: 0 88px;
+  justify-content: space-between;
+  padding-top: 95px;
+}
+@media(max-width: 1024px){
+  main{
+    padding: 0 8%;
+  }
+}
+@media(max-width: 768px){
+  main{
+    padding: 0 4%;
+  }
+}

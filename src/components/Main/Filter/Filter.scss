@@ -1,0 +1,30 @@
+nav{
+  margin-right: 4%;
+  width: 34%;
+  max-width: 210px;
+  ul{
+    width: 100%;
+    li{
+      display: flex;
+      padding: 5px;
+      font-weight: 300;
+      background-color: rgba(255,255,255,0.1);
+      border: rgba(255,255,255,0.1) 1px solid;
+      cursor: pointer;
+      transition: cubic-bezier(0.175, 0.885, 0.32, 3);
+      &:hover{
+        background: rgba(0, 0, 0, 0.0001);
+      }
+
+    }
+  }
+}
+
+@media(max-width: 1024px){
+
+}
+@media(max-width: 768px){
+  nav{
+    display: none;
+  }
+}

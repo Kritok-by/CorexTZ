@@ -1,0 +1,14 @@
+
+.header-li{
+  background: rgba(255,255,255,0.05);
+  mix-blend-mode: normal;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-sizing: border-box;
+  padding: 9px 12px;
+  width: 100%;
+}
+@media(max-width: 768px){
+  .header-li{
+    display: none;
+  }
+}
