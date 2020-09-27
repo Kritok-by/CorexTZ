@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "14a24c49857750a46423ee48901b5e27",
+    "revision": "2312504638d2bb631b5dfc76f09b47fb",
     "url": "/CorexTZ/index.html"
   },
   {
-    "revision": "4d0b79500a4cb2122398",
-    "url": "/CorexTZ/static/css/main.fb9d9f5e.chunk.css"
+    "revision": "2fbeff8a421bd3ddc65f",
+    "url": "/CorexTZ/static/css/main.d1c4b1e9.chunk.css"
   },
   {
-    "revision": "4e97e077326575b7e888",
-    "url": "/CorexTZ/static/js/2.551008cf.chunk.js"
+    "revision": "51736d40eddc796d90c0",
+    "url": "/CorexTZ/static/js/2.7b9e2c35.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/CorexTZ/static/js/2.551008cf.chunk.js.LICENSE.txt"
+    "url": "/CorexTZ/static/js/2.7b9e2c35.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4d0b79500a4cb2122398",
-    "url": "/CorexTZ/static/js/main.736a6c0a.chunk.js"
+    "revision": "2fbeff8a421bd3ddc65f",
+    "url": "/CorexTZ/static/js/main.c50db222.chunk.js"
   },
   {
     "revision": "04806a80dbd9d90bec56",
